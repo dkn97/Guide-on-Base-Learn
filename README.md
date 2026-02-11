@@ -16,4 +16,4 @@ head to base guild to claim your role.
 
 <img width="1199" height="334" alt="image" src="https://github.com/user-attachments/assets/74401855-cbd1-42e0-92fc-78988d4229ee" />
 
-you're all set......................................................
+you're all set.
