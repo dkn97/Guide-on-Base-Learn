@@ -1,7 +1,6 @@
 # Guide-on-Base-Learn
 
-Key activities you shouldn’t miss on Base:
--> base.org/names
+Key activities you shouldn’t miss on Base
 
 how to commit on github (base guild task), this is the easiest way, no terminal stress
 
