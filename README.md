@@ -3,7 +3,7 @@
 Key activities you shouldn’t miss on Base:
 -> base.org/names
 -> guild.xyz/base
-join.base.app
+-> join.base.app
 
 how to commit on github (base guild task), this is the easiest way, no terminal stress
 
