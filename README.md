@@ -1,7 +1,7 @@
 # Guide-on-Base-Learn
 
 Key activities you shouldn’t miss on Base:
-base.org/names
+-> base.org/names
 guild.xyz/base
 join.base.app
 
