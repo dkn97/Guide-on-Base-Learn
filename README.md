@@ -10,7 +10,7 @@ how to commit on github (base guild task), this is the easiest way, no terminal 
 
 <img width="1200" height="635" alt="image" src="https://github.com/user-attachments/assets/cf189199-aa18-4dcd-96a6-72d421ec81ee" />
 
-you'd have successfully completed your first github commit
+you'd have successfully completed your first github commit..
 
 head to base guild to claim your role
 
