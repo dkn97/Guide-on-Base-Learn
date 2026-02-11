@@ -1,6 +1,6 @@
 # Guide-on-Base-Learn
 
-Base is probably the only L2 that will truly survive long term, and its coin will be genuinely appreciated and held in the diamond hands of a strong community
+Key activities you shouldn’t miss on Base:
 
 how to commit on github (base guild task), this is the easiest way, no terminal stress
 
